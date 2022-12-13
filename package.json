@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@intlify/nuxt3": "^0.2.3",
+    "nuxt": "^3.0.0-rc.13"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.0.13",
+    "@vueuse/core": "^9.6.0"
+  }
+}
